@@ -1,4 +1,3 @@
 # hello-world
-just learning
 
-nothing to see here
+I'm a developer exploring the world of GIT
